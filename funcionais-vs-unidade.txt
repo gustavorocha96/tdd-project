@@ -1,0 +1,2 @@
+Enquanto os testes de unidade são mais focados na perspectiva do programador, testando funções ou métodos, chamadas em outras funções, etc, os testes de funcionalidade têm um foco no usuário, em que se é testadas as funcionalidades do sistema como um todo, para ver se traz o resultado esperado.
+Além disso, os testes de unidade são mais rápidos e fáceis de escrever, enquanto os de funcionalidade são mais complexos.
